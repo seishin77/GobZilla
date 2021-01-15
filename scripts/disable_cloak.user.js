@@ -8,8 +8,8 @@
 // @run-at       document-end
 // @match        http://games.gobland.fr/depot.php*
 // @grant        none
-// @downloadURL https://github.com/d-faure/VedaZilla/raw/master/VedaZilla.user.js
-// @updateURL   https://github.com/d-faure/VedaZilla/raw/master/VedaZilla.meta.js
+// @downloadURL https://github.com/seishin77/GobZilla/raw/master/scripts/disable_cloak.user.js
+// @updateURL   https://github.com/seishin77/GobZilla/raw/master/scripts/disable_cloak.meta.js
 // ==/UserScript==
 
 /* global $ */
