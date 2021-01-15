@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         disable_cloakroom
 // @namespace    http://gobland.fr/
-// @version      0.1
+// @version      0.2
 // @copyright    2020+
 // @description  Disable cloakroom checkbox
 // @author       Seishin
