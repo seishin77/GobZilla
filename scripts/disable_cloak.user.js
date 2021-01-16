@@ -8,7 +8,6 @@
 // @run-at       document-end
 // @match        http://games.gobland.fr/depot.php*
 // @match        https://games.gobland.fr/depot.php*
-// @grant        none
 // @require     https://greasemonkey.github.io/gm4-polyfill/gm4-polyfill.js
 // @require     https://raw.githubusercontent.com/seishin77/GobZilla/master/lib/GobZilla.lib.js
 // @grant       GM.info
