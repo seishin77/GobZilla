@@ -21,6 +21,7 @@ Gobland V1
 | Script        | Description                       | Pré-requis |
 |---------------|-----------------------------------|------------|
 | [G1-disable_cloak](https://github.com/seishin77/GobZilla/raw/master/scripts/G1-disable_cloak.user.js) | désactive le vestiaire par défaut | |
+| [G1-disable_dla](https://github.com/seishin77/GobZilla/raw/master/scripts/G1-disable_dla.user.js) | désactive la DLA par défaut | |
 
 Gobland V2
 | Script        | Description                       | Pré-requis |
